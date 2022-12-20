@@ -1,0 +1,19 @@
+body {
+    background-color: papayawhip;
+    max-width: max-content;
+    
+}
+
+.tarif {
+    font-size: 18px;
+}
+
+h1,
+h2,
+h3
+
+{
+    color:brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+}
